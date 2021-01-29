@@ -13,6 +13,12 @@ public class 第一题 {
             System.out.println("过轻");
         else if(c<25&&c>=18.5)
             System.out.println("正常");
+        
+        
+        
+        
+        
+        
         else if(c<28&&c>=25)
             System.out.println("过重");
         else if(c<32&&c>=28)
